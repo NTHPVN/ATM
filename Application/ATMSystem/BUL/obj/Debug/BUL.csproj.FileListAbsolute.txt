@@ -1,0 +1,20 @@
+E:\BTLWindow\Application\ATMSystem\BUL\bin\Debug\BUL.dll
+E:\BTLWindow\Application\ATMSystem\BUL\bin\Debug\BUL.pdb
+E:\BTLWindow\Application\ATMSystem\BUL\bin\Debug\DAL.dll
+E:\BTLWindow\Application\ATMSystem\BUL\bin\Debug\DTO.dll
+E:\BTLWindow\Application\ATMSystem\BUL\bin\Debug\DAL.pdb
+E:\BTLWindow\Application\ATMSystem\BUL\bin\Debug\DTO.pdb
+E:\BTLWindow\Application\ATMSystem\BUL\obj\Debug\BUL.csprojResolveAssemblyReference.cache
+E:\BTLWindow\Application\ATMSystem\BUL\obj\Debug\BUL.dll
+E:\BTLWindow\Application\ATMSystem\BUL\obj\Debug\BUL.pdb
+C:\Users\NGUYEN HIEU\Downloads\ATM\ATM\Application\ATMSystem\BUL\bin\Debug\BUL.dll
+C:\Users\NGUYEN HIEU\Downloads\ATM\ATM\Application\ATMSystem\BUL\bin\Debug\BUL.pdb
+C:\Users\NGUYEN HIEU\Downloads\ATM\ATM\Application\ATMSystem\BUL\bin\Debug\DAL.dll
+C:\Users\NGUYEN HIEU\Downloads\ATM\ATM\Application\ATMSystem\BUL\bin\Debug\DTO.dll
+C:\Users\NGUYEN HIEU\Downloads\ATM\ATM\Application\ATMSystem\BUL\bin\Debug\DAL.pdb
+C:\Users\NGUYEN HIEU\Downloads\ATM\ATM\Application\ATMSystem\BUL\bin\Debug\DTO.pdb
+C:\Users\NGUYEN HIEU\Downloads\ATM\ATM\Application\ATMSystem\BUL\obj\Debug\BUL.csproj.AssemblyReference.cache
+C:\Users\NGUYEN HIEU\Downloads\ATM\ATM\Application\ATMSystem\BUL\obj\Debug\BUL.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN HIEU\Downloads\ATM\ATM\Application\ATMSystem\BUL\obj\Debug\BUL.csproj.CopyComplete
+C:\Users\NGUYEN HIEU\Downloads\ATM\ATM\Application\ATMSystem\BUL\obj\Debug\BUL.dll
+C:\Users\NGUYEN HIEU\Downloads\ATM\ATM\Application\ATMSystem\BUL\obj\Debug\BUL.pdb
